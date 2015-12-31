@@ -1,0 +1,9 @@
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\bin\Debug\K-Neglect.exe.config
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\obj\Debug\K-Neglect.csprojResolveAssemblyReference.cache
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\obj\Debug\K_Neglect.Form1.resources
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\obj\Debug\K_Neglect.Properties.Resources.resources
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\obj\Debug\K-Neglect.csproj.GenerateResource.Cache
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\bin\Debug\K-Neglect.exe
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\bin\Debug\K-Neglect.pdb
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\obj\Debug\K-Neglect.exe
+c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\obj\Debug\K-Neglect.pdb
