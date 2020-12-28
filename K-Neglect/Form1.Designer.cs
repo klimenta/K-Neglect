@@ -248,7 +248,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "K-Neglect";
+            this.Text = "K-Neglect v0.0.1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Resize += new System.EventHandler(this.Form1_Resize);
             this.contextMenuStrip2.ResumeLayout(false);
