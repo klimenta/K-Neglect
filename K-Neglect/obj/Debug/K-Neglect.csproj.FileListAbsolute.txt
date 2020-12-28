@@ -7,3 +7,12 @@ c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\bin\
 c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\bin\Debug\K-Neglect.pdb
 c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\obj\Debug\K-Neglect.exe
 c:\users\klimenta\documents\visual studio 2015\Projects\K-Neglect\K-Neglect\obj\Debug\K-Neglect.pdb
+P:\dotnet\K-Neglect\K-Neglect\bin\Debug\K-Neglect.exe.config
+P:\dotnet\K-Neglect\K-Neglect\bin\Debug\K-Neglect.exe
+P:\dotnet\K-Neglect\K-Neglect\bin\Debug\K-Neglect.pdb
+P:\dotnet\K-Neglect\K-Neglect\obj\Debug\K_Neglect.Form1.resources
+P:\dotnet\K-Neglect\K-Neglect\obj\Debug\K_Neglect.Properties.Resources.resources
+P:\dotnet\K-Neglect\K-Neglect\obj\Debug\K-Neglect.csproj.GenerateResource.cache
+P:\dotnet\K-Neglect\K-Neglect\obj\Debug\K-Neglect.csproj.CoreCompileInputs.cache
+P:\dotnet\K-Neglect\K-Neglect\obj\Debug\K-Neglect.exe
+P:\dotnet\K-Neglect\K-Neglect\obj\Debug\K-Neglect.pdb

@@ -82,7 +82,7 @@ namespace K_Neglect
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("K-Neglect v1.0" + "\n" + 
+            MessageBox.Show("K-Neglect v0.0.1" + "\n" + 
                 "==========" + "\n" +
                 "- You have 3 reminders. Type a description, schedule a time and check to enable." + "\n" +
                 "- Don't schedule more than 24 hrs in advance." + "\n" + 
