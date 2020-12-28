@@ -14,5 +14,8 @@ When the time comes, the program will pop-out from the tray.
 
 ![K-Neglect](k-neglect.png)
 
+# Download
+You can download the exe from the releases section or compile on your own. 
+Visual Studio and .NET 4.5 are required.
 
 
